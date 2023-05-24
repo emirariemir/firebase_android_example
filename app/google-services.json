@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "783407190877",
+    "project_id": "insta-clone-java-88947",
+    "storage_bucket": "insta-clone-java-88947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783407190877:android:65c4511464a0a82c4a0eb4",
+        "android_client_info": {
+          "package_name": "com.emirari.mytestapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783407190877-1fhi05cmc25cgb0ojnldpq6cv2aop77c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-n7GW2tHqrZbi0nloKVfoKSvdtv4k6gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783407190877-1fhi05cmc25cgb0ojnldpq6cv2aop77c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
